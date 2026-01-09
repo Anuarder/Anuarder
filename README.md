@@ -1,6 +1,7 @@
 👋 Anuar (@Anuarder)
 
 Frontend Developer
+
 Building scalable web products with a strong focus on architecture, performance, and delivery
 
 Stack: TypeScript, JavaScript, React, Vue, Nuxt, Next.js, Vite, Tailwind
